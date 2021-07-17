@@ -4,8 +4,7 @@ body {
 #container{
   margin: 0;
   front-size: 10em;
-  font-weight: bold;
-  top-margin: 30px;
+
 }
 
 #header-nav{
@@ -13,8 +12,8 @@ background-color: #bfbfbf;
 }
 
 #p4{
-  color: black;
-  
+  color: white;
+  font-weight: bold;
   
   
   
