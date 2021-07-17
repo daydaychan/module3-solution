@@ -1,5 +1,8 @@
-body{
-     font-size: 10px;
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
 }
 
 #header-nav{
@@ -7,6 +10,7 @@ background-color: #bfbfbf;
 border-radius: 0;
 border: 0;
 }
+
 h2{
   text-align: center;
 }
