@@ -18,58 +18,45 @@ background-color: #bfbfbf;
   
   
 }
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+	background-color: #61122F;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#61122F; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
 
 h2{
-  text-align: center;
+	text-align: center;
 }
-
-
-
-#p1 {
-  background-color: #D59898;
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-weight: bold;
-  height: 35px;
-  width: 120px;
-  padding: 10px;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
+#myNavbar ul li a {
+	color: #61122F;
 }
-#p2 {
-  background-color:#C14543 ;
-  color: white;
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-weight: bold;
-  height: 35px;
-  width: 120px;
-  padding: 10px;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
+.navbar-brand{
+font-size: 30px;	
 }
-#p3 {
- background-color: #E5D198;
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-weight: bold;
-  height: 35px;
-  width: 120px;
-  padding: 10px;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
-}
-
-
-.row {
-  width: 100%;
-
-}
-
-
