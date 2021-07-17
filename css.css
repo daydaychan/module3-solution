@@ -1,5 +1,5 @@
 body {
-  text-color: black;
+  color: black;
   front-size: 35px;
   font-family: 'Oxygen', sans-serif;
 }
@@ -18,7 +18,7 @@ h2{
 
 p{
   front-size: 100px;
-  color: black;
+  color: white;
 }
 
 #p1 {
