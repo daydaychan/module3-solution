@@ -15,7 +15,8 @@ h2{
 
 #p4{
   font-weight: bold;
-  front-size: 100px;
+  front-size: 10px;
+  top-margin: 10px;
   color: white;
 }
 
