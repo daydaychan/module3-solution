@@ -3,24 +3,14 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-#header-nav{
-background-color: #bfbfbf;
-border-radius: 0;
-border: 0;
-}
-
 h2{
   text-align: center;
 }
 
-p {
-  background-color: #bfbfbf;
-}
-
-
-#container {
-  position: relative;
-  
+#header-nav{
+background-color: #bfbfbf;
+border-radius: 0;
+border: 0;
 }
 
 #p1 {
