@@ -1,6 +1,6 @@
 body {
   text-color: black;
-  text-size: 35px;
+  front-size: 35px;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -17,6 +17,7 @@ h2{
 }
 
 p{
+  front-size: 100px;
   color: black;
 }
 
