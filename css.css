@@ -2,10 +2,11 @@
   box-sizing: border-box;
 }
 
-h1{
-  text-align: left;
+#header-nav{
+background-color: #bfbfbf;
+border-radius: 0;
+border: 0;
 }
-
 h2{
   text-align: center;
 }
