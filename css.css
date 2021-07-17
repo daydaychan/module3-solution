@@ -9,16 +9,19 @@ margin: 0;
 background-color: #bfbfbf;
 }
 
+#p4{
+  color: black;
+  font-weight: bold;
+  front-size: 10em;
+  top-margin: 30px;
+  
+}
+
 h2{
   text-align: center;
 }
 
-#p4{
-  font-weight: bold;
-  front-size: 29px;
-  top-margin: 30px;
-  color: black;
-}
+
 
 #p1 {
   background-color: #D59898;
