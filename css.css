@@ -1,3 +1,6 @@
+body{
+     font-size: 10px;
+}
 
 #header-nav{
 background-color: #bfbfbf;
@@ -10,8 +13,6 @@ h2{
 
 p {
   background-color: #bfbfbf;
-  border: 2px solid black;
-  overflow: hidden;
 }
 
 
