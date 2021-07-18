@@ -1,23 +1,4 @@
-body {
-}
 
-#container{
-  margin: 0;
-  front-size: 10em;
-
-}
-
-#header-nav{
-background-color: #bfbfbf;
-}
-
-#p4{
-  color: white;
-  font-weight: bold;
-  
-  
-  
-}
 *{
 	margin: 0;
 	padding: 0;
@@ -26,7 +7,7 @@ background-color: #bfbfbf;
 .navbar{
 
 border: none;
-background-color: black;
+background-color: #bfbfbf;
 color: #61122F;
 }
 body{
