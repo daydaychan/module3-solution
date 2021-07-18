@@ -10,9 +10,6 @@ background-color: black;
 color: #61122F;
 }
 
-#h2{
-   text-align: center;
-}
 
 body{
 	background-color: #61122F;
@@ -42,9 +39,67 @@ h2{
 #myNavbar ul li a {
 	color: #61122F;
 }
-#p1{
-   text-align: center;
-}
 .navbar-brand{
 font-size: 30px;	
+}
+p {
+  background-color: #bfbfbf;
+  border: 2px solid black;
+  height: 150px;
+  margin-right: 10px;
+  padding: 40px 10px 5px 10px;
+  overflow: hidden;
+}
+
+
+#container {
+  position: relative;
+  
+}
+
+#p1 {
+  background-color: #D59898;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+#p2 {
+  background-color:#C14543 ;
+  color: white;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+#p3 {
+ background-color: #E5D198;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.row {
+  width: 100%;
+
 }
