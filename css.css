@@ -1,4 +1,3 @@
-
 *{
 	margin: 0;
 	padding: 0;
@@ -7,8 +6,8 @@
 .navbar{
 
 border: none;
-background-color: #bfbfbf;
-color: #bfbfbf;
+background-color: black;
+color: #61122F;
 }
 body{
 	background-color: #61122F;
@@ -26,7 +25,7 @@ body{
 }
 .container
 {
-	background-color: #bfbfbf;
+	background-color: grey;
 }
 .text-center{
 	font-size: 30px;
@@ -39,6 +38,5 @@ h2{
 	color: #61122F;
 }
 .navbar-brand{
-color: white;
 font-size: 30px;	
 }
